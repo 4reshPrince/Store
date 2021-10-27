@@ -1,0 +1,16 @@
+C:\Users\torell.jordan\Documents\Programering1\Store\Store\Store\bin\Debug\net5.0\Store.exe
+C:\Users\torell.jordan\Documents\Programering1\Store\Store\Store\bin\Debug\net5.0\Store.deps.json
+C:\Users\torell.jordan\Documents\Programering1\Store\Store\Store\bin\Debug\net5.0\Store.runtimeconfig.json
+C:\Users\torell.jordan\Documents\Programering1\Store\Store\Store\bin\Debug\net5.0\Store.runtimeconfig.dev.json
+C:\Users\torell.jordan\Documents\Programering1\Store\Store\Store\bin\Debug\net5.0\Store.dll
+C:\Users\torell.jordan\Documents\Programering1\Store\Store\Store\bin\Debug\net5.0\ref\Store.dll
+C:\Users\torell.jordan\Documents\Programering1\Store\Store\Store\bin\Debug\net5.0\Store.pdb
+C:\Users\torell.jordan\Documents\Programering1\Store\Store\Store\obj\Debug\net5.0\Store.csproj.AssemblyReference.cache
+C:\Users\torell.jordan\Documents\Programering1\Store\Store\Store\obj\Debug\net5.0\Store.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\torell.jordan\Documents\Programering1\Store\Store\Store\obj\Debug\net5.0\Store.AssemblyInfoInputs.cache
+C:\Users\torell.jordan\Documents\Programering1\Store\Store\Store\obj\Debug\net5.0\Store.AssemblyInfo.cs
+C:\Users\torell.jordan\Documents\Programering1\Store\Store\Store\obj\Debug\net5.0\Store.csproj.CoreCompileInputs.cache
+C:\Users\torell.jordan\Documents\Programering1\Store\Store\Store\obj\Debug\net5.0\Store.dll
+C:\Users\torell.jordan\Documents\Programering1\Store\Store\Store\obj\Debug\net5.0\ref\Store.dll
+C:\Users\torell.jordan\Documents\Programering1\Store\Store\Store\obj\Debug\net5.0\Store.pdb
+C:\Users\torell.jordan\Documents\Programering1\Store\Store\Store\obj\Debug\net5.0\Store.genruntimeconfig.cache
